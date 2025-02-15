@@ -1,0 +1,11 @@
+model_name,mode,ngram,nr_cand,avg_metrics,time
+"all-mpnet-base-v2,Train,""(3,3)"",4,0.7453125,284.5780670642853"
+"all-mpnet-base-v2,Test,""(3,3)"",4,0.7304011777695988,95.64945220947266"
+"sentence-transformers/paraphrase-MiniLM-L6-v2,Train,""(3,3)"",4,0.749,137.82919716835022"
+"sentence-transformers/paraphrase-MiniLM-L6-v2,Test,""(3,3)"",4,0.7381302907618698,46.458484411239624"
+"roberta-base,Train,""(3,3)"",4,0.6593125,259.98347759246826"
+"roberta-base,Test,""(3,3)"",4,0.6486934118513066,88.24911451339722"
+"roberta-large,Train,""(3,3)"",4,0.679,484.7091999053955"
+"roberta-large,Test,""(3,3)"",4,0.6634155318365844,165.72009706497192"
+"albert-base-v2,Train,""(3,3)"",4,0.664125,237.64644694328308"
+"albert-base-v2,Test,""(3,3)"",4,0.6589988958410011,81.10947561264038"

@@ -1,0 +1,3 @@
+mode,ngram,nr_cand,avg_metrics,time
+Train,"(1,2)",default,0.424875,189.84027910232544
+Test,"(1,2)",default,0.423260949576739,63.28453087806702
